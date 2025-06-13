@@ -31,17 +31,17 @@ Se for o arquivo4a com somente o nome "MATRIZ" e aba "respostas do formulário" 
 
 
 #Nome dos itinerários
-itinerarioA = "Tramas temporais: entre histórias e palavras (Luciana e Edney)"
-itinerarioB = "Revoluções, Transformações e Descobertas (Francisco e Edney)"
-itinerarioC = "Palavrar: análise e interpretação textual para o sucesso no vestibular (Kátia)"
-itinerarioD = "Arquitetura Sustentável e Espaço Urbano: desenvolvendo um projeto maker (Fábio)"
-itinerarioE = "Ficção científica: entre palavras, lógicas e partículas (Francisco e Luciana)"
-itinerarioF = "Iniciação Científica (Homero)"
-itinerarioG = "Sociedade brasileira e autoritarismo (Graziano)"
+itinerarioA = "Tramas temporais: entre histórias e palavras"
+itinerarioB = "Revoluções, Transformações e Descobertas"
+itinerarioC = "Palavrar: análise e interpretação textual para o sucesso no vestibular"
+itinerarioD = "Arquitetura Sustentável e Espaço Urbano: desenvolvendo um projeto maker"
+itinerarioE = "Ficção científica: entre palavras, lógicas e partículas"
+itinerarioF = "Iniciação Científica"
+itinerarioG = "Sociedade brasileira e autoritarismo"
 
 
 #Quantidade de alunos por turma
-limite_alunos = 33 # Na verdade significa +1 , porque no Python a gente conta o zero
+limite_alunos = 33 # Na verdade significa +1 ou seja, 34 alunos , porque no Python a gente conta o zero
 
 
 #Gerando o arquivo4a onde teremos as informações aluno por aluno
